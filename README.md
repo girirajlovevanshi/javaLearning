@@ -7,3 +7,4 @@ dataTypesAndVariables.java
 localVariable.java
 intanceVariable.java
 staticVariable.java
+primitive.java
