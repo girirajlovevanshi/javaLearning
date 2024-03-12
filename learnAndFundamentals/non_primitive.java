@@ -1,5 +1,5 @@
 public class non_primitive{
-    public static void non_primitive(){
+    public static void main(){
 //Non-Primitive - String, Arrays, Classes and interfaces etc.
 
 //A String in Java is a non-primitive data type, 
