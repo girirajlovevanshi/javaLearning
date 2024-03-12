@@ -9,5 +9,5 @@ learnAnd Fundamentals
 5. staticVariable.java <br/>
 6. primitive.java <br/>
 7. non_primitive.java <br/>
-8. conditionals.java <br/>s
+8. conditionals.java <br/>
 9. 
